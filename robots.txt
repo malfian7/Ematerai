@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /masuk.html
+Disallow: /daftar.html
+
+Sitemap: https://e-materai.id/sitemap.xml
